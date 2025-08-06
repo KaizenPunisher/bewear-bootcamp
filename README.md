@@ -3,6 +3,8 @@ npm i -D drizzle-kit@0.31.4 @types/pg@8.15.4 tsx@4.20.3
 npx shadcn@2.9.2 init
 npm install -D prettier@3.6.2 prettier-plugin-tailwindcss@0.6.14
 npx shadcn@2.9.2 add card form input tabs
+npm i better-auth@1.2.12
+npx @better-auth/cli@1.2.12 generate
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
