@@ -2,6 +2,7 @@ npm i drizzle-orm@0.44.2 drizzle-seed@0.3.1 pg@8.16.3 dotenv@17.1.0
 npm i -D drizzle-kit@0.31.4 @types/pg@8.15.4 tsx@4.20.3
 npx shadcn@2.9.2 init
 npm install -D prettier@3.6.2 prettier-plugin-tailwindcss@0.6.14
+npx shadcn@2.9.2 add card form input tabs
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
