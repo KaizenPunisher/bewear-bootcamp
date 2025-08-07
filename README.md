@@ -8,6 +8,7 @@ npx @better-auth/cli@1.2.12 generate
 npx shadcn@2.9.2 add sonner
 npx shadcn@2.9.2 add sheet
 npx shadcn@2.9.2 add avatar
+npx tsx --env-file=.env src/db/seed.ts
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
